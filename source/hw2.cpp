@@ -6,7 +6,7 @@
 #include <curses.h>
 #include <termios.h>
 #include <fcntl.h>
-
+//add here
 #define ROW 10
 #define COLUMN 50 
 
